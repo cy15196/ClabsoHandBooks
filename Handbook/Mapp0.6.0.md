@@ -1,7 +1,6 @@
 麒麟智慧软件使用说明书
 ======================
 
-
 ## 1.概述
 麒麟智慧测量软件是一款智能测量软件（App），连接匹配的电子测量设备（如数码游标卡尺）后，具备自动获取测量数据、数据检查到生成测量报告等功能。整个软硬件系统如下下图所示：
 <img style="width:60%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/main.png" align="center" />
@@ -105,3 +104,8 @@
 
 ### 联系我们
 info@clabso.com
+
+
+<img  src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/test.gif" align="center" />
+
+动图测试
