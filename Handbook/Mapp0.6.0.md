@@ -92,14 +92,18 @@
 图 15 新建/编辑产品 （右图为增加/编辑测量参数项 ）
 
 ### 5.2从Excel导入
+
 <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/import_excel.png" align="center" />
+
 图 16 导入前
 
 <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/choose_file.png" align="center" />
+
 图 17 选择文件
 
 
 <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/import_result.png" align="center" />
+
 图 18 解析结果
 
 
