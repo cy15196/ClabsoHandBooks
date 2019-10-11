@@ -2,11 +2,11 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 51,
-  "VersionName": "0.6.0",
-  "UploadTime": "2019-10-10 17:28:41",
-  "ModifyContent": "\r\n1、增加浏览打开文件的功能。\r\n2、实现简单固定位置解析excel模板数据的功能。",
-  "DownloadUrl": "https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Apk/mapp-release0.6.0.apk",
-  "ApkSize": 22340,
-  "ApkMd5": "5c8001b7082d7f7d66a40fb5ae41999f"
+  "VersionCode": 54,
+  "VersionName": "0.6.1",
+  "UploadTime": "2019-10-11 17:28:41",
+  "ModifyContent": "\r\n1、优化基础显示。\r\n2、消除几处崩溃。\r\n3、增加修改配对设备的方式。",
+  "DownloadUrl": "https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Apk/mapp-release0.6.1.apk",
+  "ApkSize": 22316,
+  "ApkMd5": "50a94920ba62cae2905ea56ad9abafd5"
 }
