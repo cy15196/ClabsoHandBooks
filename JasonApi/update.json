@@ -2,11 +2,11 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 54,
-  "VersionName": "0.6.1",
-  "UploadTime": "2019-10-11 17:28:41",
-  "ModifyContent": "\r\n1、优化基础显示。\r\n2、消除几处崩溃。\r\n3、增加修改配对设备的方式。",
-  "DownloadUrl": "https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Apk/mapp-release0.6.1.apk",
-  "ApkSize": 22316,
-  "ApkMd5": "50a94920ba62cae2905ea56ad9abafd5"
+  "VersionCode": 56,
+  "VersionName": "0.6.2",
+  "UploadTime": "2019-10-12 10:37:41",
+  "ModifyContent": "\r\n1、增加相机动态权限获取。\r\n2、修复产品管理删除状态的错误。",
+  "DownloadUrl": "https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Apk/mapp-release0.6.2.apk",
+  "ApkSize": 22317,
+  "ApkMd5": "379885f6bddc7e5a42fb395014386643"
 }
