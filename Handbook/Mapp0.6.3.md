@@ -90,17 +90,25 @@
 #### 2.3连接设备
 完成上述准备工作之后，即可开启软件，点击连接设置，进入连接设置页面。点击页面下方，重新连接按钮，等待10s左右，软件弹出连接成功或者连失败。
 
-图 7 连接页面（右侧为连接成功）
-
 ## 3.产品管理
 本软件的核心在于通过建立产品模板,用户即可通过测量向导,通过测量设备自动完成零件的测量和记录任务.
 
-产品管理包括新建，删除，编辑，查看等。直接选中对应的项，点击按钮即可。
+产品管理包括新建，删除，编辑，查看等。直接选中对应的项，点击按钮即可。长按产品项将其设置为当前产品,供测量向导使用.
 
-### 3.1编辑/查看
-<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/item_edit.png" align="center" />
+<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/product_manager.png" align="center" /> <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/product_delete.png" align="center" />
 
-图 15 新建/编辑产品 （右图为增加/编辑测量参数项 ）
+产品管理页面（右侧为删除状态）
+
+
+### 3.1新建/编辑
+
+<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/product_new.png" align="center" /> <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/product_edit.png" align="center" />
+
+新建/编辑产品
+
+<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/item_new.png" align="center" /> <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/item_delete.png" align="center" />
+
+新建/编辑测量项
 
 ### 3.2从Excel导入
 为方便用户更快更准确的建立产品模板,软件提供了从Excel表格导入产品模板的功能,用户可预先在电脑上编辑好文件,传输到手机上,进行一键导入.
@@ -111,32 +119,23 @@
 ## 4.测量
 按照使用游标卡尺的方法正常测量尺寸，确定之后，按下蓝牙发生器上的按钮，则数据往外传输，建立连接的软件端即接收到数据并进行处理（显示）。
 #### 4.1自由测量
-连接完成之后，即可进入通过主页面，点击自由测量，进入自由测量页面。
+连接完成之后，即可进入通过主页面，点击自由测量，进入自由测量页面。滑动游标卡尺,按一下蓝牙发射器上的按钮,等待数秒,软件会提示接收到数据,并将其显示到页面上.
 
 <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/free.png" align="center" /> <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/free_data.png" align="center" />
 
-图 8 自由测量页面（右图为实际测量示例）
+自由测量页面（右图为实际测量示例）
 
 #### 4.2测量向导
 根据实际需求，软件提供了测量向导的功能，用户可预先定义好需要进行测量检验的产品，之后便可按照产品中定义的顺序、测量项类型、尺寸要求等进行测量检验，完成之后生成测量结果。
 
-<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/product_manager.png" align="center" /> <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/product_delete.png" align="center" />
-
-
-图9 产品管理页面（右侧为删除状态）
-
-<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/product_new.png" align="center" /> <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/product_edit.png" align="center" />
-
-
-图10 新建/编辑产品
-
-<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/item_new.png" align="center" /> <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/item_delete.png" align="center" />
-
-图11 新建/编辑测量项
-
 <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/wazarid_item.png" align="center" /> <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/wazarid_info.png" align="center" />
   
-图10 测量向导（测量项，测量信息）
+测量向导（测量项，测量信息）
+
+* 与自由测量类似,测量向导工作时也能接收蓝牙发射器发射过来的数据并自动填写为实测值.为保证兼容性,避免意外情况,实测值也支持直接点击输入.
+* 点击当前项(绿色背景)的实际图三个字上方的图片,可根据需要附加图片到该测量项.
+  
+<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/hand_edit.png" align="center" /> <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/add_pic.png" align="center" />
 
 
 ## 5.导出结果
@@ -144,13 +143,13 @@
 
 <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/result_list.png" align="center" />
 
-图 11 测量历史记录页面
+测量历史记录页面
 
 导出报告时，需要一些预定义的信息，暂时将其放置到信息设置页面，后期考虑增加用户功能。
 
 <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/info.png" align="center" />
 
-图 12 信息设置页面
+信息设置页面
 
 
 #### 5.1生成报告
@@ -158,11 +157,11 @@
     
 <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/result_detail.png" align="center" /> <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/share_report.png" align="center" />
 
-图 12 选中记录，点击导出Excel
+选中记录，点击导出Excel
 
 <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/report_temp.png" align="center" />
 
-图 13 Excel报告样例（WPS打开）
+Excel报告样例（WPS打开）
 
 
 
