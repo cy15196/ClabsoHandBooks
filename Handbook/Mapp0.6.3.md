@@ -16,17 +16,30 @@
 
 #### 1.1 软件主页面分区
 
+软件采用三段式布局，从上而下依次是任务栏，功能区和导航条。
+* 任务栏从左至右依次为‘关于’ ， 当前页面标题和‘连接设置’页面
+* 功能区将不同分类下的功能按钮按照9宫格的形式排布
+* 导航条用户切换不同的功能分区
+
 <img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/main.png" align="center" />
 
 麒麟智慧测量软件主页面  
 
-#### 1.2 主要功能分页介绍
+### 1.2 主要功能分页介绍
 
-软件的版本信息，使用说明书和检查更新操作都集中于关于页面。
+* 关于页面
+软件的版本信息，使用说明书和检查更新操作都集中于关于页面：点击查看使用说明则打开在线的说明文档，点击检查更新，软件会自动联网检查是否存在更新版本的软件，并按照用户选择进行更新
 
-<img style="width:60%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/about.png" align="center" />
+<img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/about.png" align="center" /> <img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/about_handbook.png" align="center" /> 
 
-图4 关于页面
+关于页面
+
+* 连接设置
+  
+<img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/link_setting.png" align="center" />
+
+连接设置
+
 
 ## 2.连接
 本软件通过蓝牙（BLE）与测量设备进行连接通信，使用测量功能前，需要先确保蓝牙能够顺利连接。
