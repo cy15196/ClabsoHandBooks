@@ -84,8 +84,8 @@
 * 应用内安装软件    更新软件
 * 读取机器识别码    识别设备,验证连接
 
-<img style="width:45%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/app_setting.png" align="center" />  
-<img style="width:45%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/app_permission.png" align="center" />
+<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/app_setting.png" align="center" />  
+<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/app_permission.png" align="center" />
 
 
 #### 2.3连接设备
