@@ -93,6 +93,8 @@
 图 7 连接页面（右侧为连接成功）
 
 ## 3.产品管理
+本软件的核心在于通过建立产品模板,用户即可通过测量向导,通过测量设备自动完成零件的测量和记录任务.
+
 产品管理包括新建，删除，编辑，查看等。直接选中对应的项，点击按钮即可。
 
 ### 3.1编辑/查看
@@ -101,6 +103,7 @@
 图 15 新建/编辑产品 （右图为增加/编辑测量参数项 ）
 
 ### 3.2从Excel导入
+为方便用户更快更准确的建立产品模板,软件提供了从Excel表格导入产品模板的功能,用户可预先在电脑上编辑好文件,传输到手机上,进行一键导入.
 
 <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/import_excel.png" align="center" /> <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/choose_file.png" align="center" /> <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/import_result.png" align="center" />
 
@@ -110,9 +113,7 @@
 #### 4.1自由测量
 连接完成之后，即可进入通过主页面，点击自由测量，进入自由测量页面。
 
-<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/free.png" align="center" />
-
-<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/free_data.png" align="center" />
+<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/free.png" align="center" /> <img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/free_data.png" align="center" />
 
 图 8 自由测量页面（右图为实际测量示例）
 
