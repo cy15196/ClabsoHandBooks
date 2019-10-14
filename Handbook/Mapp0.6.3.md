@@ -34,10 +34,26 @@
 
 
 * 连接设置
+负责建立app与测量工具的蓝牙连接。打开手机蓝牙开关，并点击重新连接即可
   
 <img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/link_setting.png" align="center" /><img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/link_success.png" align="center" />
 
 连接设置
+
+* 任务
+  
+ <img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/task.png" align="center" /> 
+  
+* 数据
+  
+  <img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/data.png" align="center" />
+  
+* 工具
+  <img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/tool.png" align="center" />
+
+* 连接
+  <img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/link.png" align="center" />
+  
 
 
 ## 2.连接
