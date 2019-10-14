@@ -4,21 +4,25 @@
 ## 1.概述
 麒麟智慧测量软件是一款智能测量软件（App），连接匹配的电子测量设备（如数码游标卡尺）后，具备自动获取测量数据、数据检查到生成测量报告等功能。整个软硬件系统如下下图所示：
 
-<img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/main.png" align="center" />
-
-图 1 麒麟智慧测量软件主页面  
-
 <img style="width:60%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/work_flow.png" align="center" />
 
-图2 麒麟智慧测量系统示意图
+麒麟智慧测量系统示意图
 
 本工作流程介绍以数码游标卡尺为例进行，下文所称测量设备，如无特殊说明，均指数码游标卡尺。
 
 <img style="width:60%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/ruler.png" align="center" />
 
-图3 数码游标卡尺（含蓝牙发射器）
+数码游标卡尺（含蓝牙发射器）
 
-软件的版本信息，官网连接，使用说明书和检查更新操作都集中于关于页面。
+#### 1.1 软件主页面分区
+
+<img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/main.png" align="center" />
+
+麒麟智慧测量软件主页面  
+
+#### 1.2 主要功能分页介绍
+
+软件的版本信息，使用说明书和检查更新操作都集中于关于页面。
 
 <img style="width:60%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/about.png" align="center" />
 
@@ -31,11 +35,8 @@
 
 <img style="width:45%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/put_bluetooth.png" align="center" />  
 <img style="width:45%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/open_ruler.png" align="center" />
-<!-- ![](https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/put_bluetooth.png) -->
 
 图 5 插入蓝牙发射器并打开设备
-
-<!-- ![](https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/open_ruler.png) -->
 
 
 之后，打开手机设置界面，将手机的蓝牙功能打开。
