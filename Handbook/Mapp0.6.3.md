@@ -44,27 +44,19 @@
   
   任务页面包括了测量向导和自由测量两项。
 
-  <img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/task.png" align="center" /> 
-  
 * 数据
   
   数据页面包括测量的结果，产品文件，信息设置。
-
-  <img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/data.png" align="center" />
   
 * 工具
   
   工具页面主要放置一些辅助功能，现仅完成从Excel模板文件中导入产品，查看图纸功能还在开发中.
-  
-  <img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/tool.png" align="center" />
 
 * 连接
   
   连接页面用来测试新配对的硬件设备,内嵌FastBLE模块
 
-  <img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/link.png" align="center" />
-  
-
+  <img style="width:22%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/task.png" align="center" /> <img style="width:22%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/data.png" align="center" /> <img style="width:22%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/tool.png" align="center" /> <img style="width:22%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/link.png" align="center" />
 
 ## 2.使用前准备
 本软件通过蓝牙（BLE）与测量设备进行连接通信，使用测量功能前，需要先确保蓝牙能够顺利连接。
@@ -85,7 +77,16 @@
 
 #### 2.2打开软件相关权限
 
-为了使软件正常工作，建议安装时，或者安装之后先设置好软件必要的权限。
+为了使软件正常工作，建议安装时，或者安装之后先设置好软件必要的权限。下面列出软件运行中涉及到的权限及其用途
+* 蓝牙和定位权限    蓝牙连接
+* 文件读取权限      保存和读取数据文件
+* 相机权限          拍摄照片
+* 应用内安装软件    更新软件
+* 读取机器识别码    识别设备,验证连接
+
+<img style="width:45%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/app_setting.png" align="center" />  
+<img style="width:45%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/app_permission.png" align="center" />
+
 
 #### 2.3连接设备
 完成上述准备工作之后，即可开启软件，点击连接设置，进入连接设置页面。点击页面下方，重新连接按钮，等待10s左右，软件弹出连接成功或者连失败。
