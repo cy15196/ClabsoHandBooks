@@ -2,11 +2,11 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 1,
-  "VersionCode": 60,
+  "VersionCode": 62,
   "VersionName": "0.6.3",
-  "UploadTime": "2019-10-14 11:46:41",
+  "UploadTime": "2019-10-14 14:30:41",
   "ModifyContent": "\r\n1、增加测量结果超出要求范围标红\r\n2、保存实际图片到测量结果，并将其添加到输出报表中，增加超链接",
   "DownloadUrl": "https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Apk/mapp-release0.6.3.apk",
   "ApkSize": 22320,
-  "ApkMd5": "91c758bc9e5d347ce23c01886bd83225"
+  "ApkMd5": "4d09bd8496fdbb370700962ec6c7ec30"
 }
