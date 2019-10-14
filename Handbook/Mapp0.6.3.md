@@ -28,15 +28,14 @@
 ### 1.2 主要功能分页介绍
 
 * 关于页面
-软件的版本信息，使用说明书和检查更新操作都集中于关于页面：点击查看使用说明则打开在线的说明文档，点击检查更新，软件会自动联网检查是否存在更新版本的软件，并按照用户选择进行更新
+软件的版本信息，使用说明书和检查更新操作都集中于关于页面。 点击查看使用说明则打开在线的说明文档；点击检查更新，软件会自动联网检查是否存在更新版本的软件，并按照用户选择进行更新
 
 <img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/about.png" align="center" /> <img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/about_handbook.png" align="center" /> 
 
-关于页面
 
 * 连接设置
   
-<img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/link_setting.png" align="center" />
+<img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/link_setting.png" align="center" /><img style="height:400px" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/link_success.png" align="center" />
 
 连接设置
 
@@ -61,9 +60,7 @@
 #### 2.2连接设备
 完成2.1 中准备工作之后，即可开启软件，点击连接设置，进入连接设置页面。点击页面下方，重新连接按钮，等待10s左右，软件弹出连接成功或者连失败。
 
-<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/link_setting.png" align="center" />
 
-<img style="width:30%" src="https://raw.githubusercontent.com/cy15196/ClabsoHandBooks/master/Handbook/img/link_success.png" align="center" />
 
 图 7 连接页面（右侧为连接成功）
 
